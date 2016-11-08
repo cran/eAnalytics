@@ -1,6 +1,8 @@
-# eAnalytics 0.1.1
+# eAnalytics 0.1.2
 
-## Major changes
+## Major Changes
 
-* Added the ability to save data to a csv file
-* Updated upstream dependency 'energyr'
+* Updated to be compatible with upstream dependency 'plotly' v4.5.2.
+* Added style options to 'plotly' line charts.
+* Added links to the help pages and the source code. 
+* Minor changes to the user interface. 

@@ -4,7 +4,6 @@
 #' eAnalytics has the largest open database of US energy industry information,
 #' providing interactive and dynamic web analytics to industry stakeholders.
 #' @importFrom plotly as.widget renderPlotly plot_ly plotlyOutput "%>%"
-#' @importFrom d3heatmap renderD3heatmap d3heatmap d3heatmapOutput
 #' @importFrom dplyr select filter
 #' @importFrom DT dataTableOutput renderDataTable datatable formatCurrency "%>%"
 #' @import energyr
@@ -18,6 +17,7 @@
 #'   messageItem dashboardSidebar sidebarMenu menuItem menuSubItem dashboardBody
 #'   tabItems tabItem box tabBox
 #' @export
+#' @seealso \url{http://paulgovan.github.io/eAnalytics/}
 #' @examples
 #' if (interactive()) {
 #'   eAnalytics()
