@@ -1,10 +1,9 @@
-5ee7116b6f97e8dcb9880a68c86deec2 *DESCRIPTION
-e96da15c624d8cb06395079d89d00bca *NAMESPACE
-be1944f667e367e0aecc8ce10b99c78d *NEWS.md
-691476dd6894806d18479994cb1bf1fe *R/eAnalytics.R
-81de870bfb12875d19a3b3fb3fda8100 *README.md
-6b034a17b9a74505a92edb484c4a9283 *build/vignette.rds
-ec7a197ad186d167bcb49b7e861bc553 *inst/app/dependencies.r
+9b0b4ccc815b64841e0bf66b9a87f89c *DESCRIPTION
+59ee63916e0d2ea0b96206d4a4fb9fab *NAMESPACE
+a8e8bf7fba2276f30970e65e89bb1e3b *NEWS.md
+ca85f615231ffe52db1a25caf0115ee1 *R/eAnalytics.R
+2103cbeb1fc3dc031131c5be85eb1686 *README.md
+666d7defe54d288972cc8061c8a0dd18 *inst/app/dependencies.r
 e91751fc0f3b6074e10eb2446bc03d1e *inst/app/global.r
 916dce94e052c2ea6c746643933bfc4f *inst/app/plotlyGraphWidget.r
 12e31d3957918810c4d50b2de39d8095 *inst/app/server.r
@@ -13,11 +12,9 @@ dec01034aeb0bec88996fb1c560aabbe *inst/app/tests/mytest-expected/001.png
 6a052d83519f46f96eee9482661fe3cd *inst/app/tests/mytest.R
 05f9e223e6cb41355ca121c9a1971e18 *inst/app/tests/mytest2-current/001.json
 188c49e5a93285e24f1cd0942bb3f9ba *inst/app/tests/mytest2-current/001.png
-ab281dbb482faa69289f2cc74698daf9 *inst/app/ui.r
-4ca6f5836ecd52c871427cc8d1e8a103 *inst/app/www/favicon.png
+d0320b7efdf02253dc003883ea5c5978 *inst/app/ui.r
+78abfb5a5370b065b4e03d79ea3ae413 *inst/app/www/favicon.png
 1783ed827be179a1177478bc8895281a *inst/app/www/plotlyGraphWidget.js
-12bb7fc707c1b3d4f39b3ed4800fe643 *inst/doc/eAnalytics.Rmd
-dcbee60eb82c4db07ca97a6e9e264434 *inst/doc/eAnalytics.html
 32b83eb0505ec13495336651f457b518 *inst/images/Dashboard.png
 823248612d476693dd0eb181a5d4f96e *inst/images/Data.png
 0eec0de4ed5e9600600650fcd99f67af *inst/images/Explorer2.png
@@ -26,4 +23,3 @@ dcbee60eb82c4db07ca97a6e9e264434 *inst/doc/eAnalytics.html
 87ec655fe200d6e1ac5623881b5bb305 *inst/images/Trends2.png
 4ca6f5836ecd52c871427cc8d1e8a103 *inst/images/eAnalytics.png
 0e466083bd4086bd83aeca6e7ef9b163 *man/eAnalytics.Rd
-12bb7fc707c1b3d4f39b3ed4800fe643 *vignettes/eAnalytics.Rmd
