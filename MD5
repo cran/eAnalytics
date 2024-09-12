@@ -1,8 +1,9 @@
-9b0b4ccc815b64841e0bf66b9a87f89c *DESCRIPTION
+cc7f8a9ac3b2f94013a1b0f3efbe9929 *DESCRIPTION
 59ee63916e0d2ea0b96206d4a4fb9fab *NAMESPACE
-a8e8bf7fba2276f30970e65e89bb1e3b *NEWS.md
+3fb239e93f3271a7dc8b30bc00f9879a *NEWS.md
 ca85f615231ffe52db1a25caf0115ee1 *R/eAnalytics.R
-2103cbeb1fc3dc031131c5be85eb1686 *README.md
+bba5036f2a4d6f4007cc0cf69b0bd697 *README.md
+3338f20eaeaf3263247d924236ef35cb *inst/CITATION
 666d7defe54d288972cc8061c8a0dd18 *inst/app/dependencies.r
 e91751fc0f3b6074e10eb2446bc03d1e *inst/app/global.r
 916dce94e052c2ea6c746643933bfc4f *inst/app/plotlyGraphWidget.r

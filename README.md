@@ -1,7 +1,10 @@
-![](http://www.r-pkg.org/badges/version/eAnalytics)
-![](http://cranlogs.r-pkg.org/badges/grand-total/eAnalytics)
-![](http://cranlogs.r-pkg.org/badges/eAnalytics)
-[![DOI](https://zenodo.org/badge/35055898.svg)](https://zenodo.org/badge/latestdoi/35055898)
+<!-- badges: start -->
+[![CRAN status](https://www.r-pkg.org/badges/version/eAnalytics)](https://CRAN.R-project.org/package=eAnalytics)
+[![CRAN checks](https://badges.cranchecks.info/summary/eAnalytics.svg)](https://cran.r-project.org/web/checks/check_results_eAnalytics.html)
+[![](http://cranlogs.r-pkg.org/badges/grand-total/eAnalytics)](https://cran.r-project.org/package=eAnalytics)
+[![](http://cranlogs.r-pkg.org/badges/last-month/eAnalytics)](https://cran.r-project.org/package=eAnalytics)
+[![](https://img.shields.io/badge/doi-10.32614/CRAN.package.eAnalytics-green.svg)](https://doi.org/10.32614/CRAN.package.eAnalytics)
+<!-- badges: end -->
 
 # eAnalytics
 
@@ -84,3 +87,6 @@ The Data tab contains interactive datatables of information for the selected ind
 The Explorer tab contains a dynamic motion chart for exploring several indicators over time. The following figure shows the Explorer tab for the Natural Gas Industry.
 
 ![](https://github.com/paulgovan/eAnalytics/blob/master/inst/images/Explorer2.png?raw=true)
+
+## Code of Conduct
+Please note that the eAnalytics project is released with a [Contributor Code of Conduct](http://paulgovan.github.io/eAnalytics/CODE_OF_CONDUCT.html). By contributing to this project, you agree to abide by its terms.
