@@ -1,5 +1,5 @@
 Package: eAnalytics
-Version: 0.3.1
+Version: 0.4
 Title: Dynamic Web-Based Analytics for the Energy Industry
 Description: A 'Shiny' web application for energy industry analytics.
       Take an overview of the industry, measure Key Performance Indicators,
@@ -13,11 +13,14 @@ License: Apache License
 Imports: dplyr, DT, energyr, googleVis, leaflet, plotly (>= 4.5.2),
         shiny, shinydashboard, shinyWidgets
 Encoding: UTF-8
-RoxygenNote: 7.2.3
-Suggests: knitr, rmarkdown
+RoxygenNote: 7.3.3
+Suggests: knitr, rmarkdown, shinytest2, testthat (>= 3.0.0)
+VignetteBuilder: knitr
+Config/testthat/edition: 3
 NeedsCompilation: no
-Packaged: 2024-09-11 15:27:59 UTC; paulgovan
-Author: Paul Govan [aut, cre, cph] (<https://orcid.org/0000-0002-1821-8492>)
+Packaged: 2026-05-19 20:22:26 UTC; paulgovan
+Author: Paul Govan [aut, cre, cph] (ORCID:
+    <https://orcid.org/0000-0002-1821-8492>)
 Maintainer: Paul Govan <paul.govan2@gmail.com>
 Repository: CRAN
-Date/Publication: 2024-09-12 23:00:02 UTC
+Date/Publication: 2026-05-19 20:40:02 UTC
